@@ -554,6 +554,7 @@
     <value>element0</value>
     <value>element1</value>
     <value>%sentence%</value>
+    <value> !</value>
   </array>
   <record name="type" javaclass="com.wm.util.Values">
     <value name="node_type">field</value>
