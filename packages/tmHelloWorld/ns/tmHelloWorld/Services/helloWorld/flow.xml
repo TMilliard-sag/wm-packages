@@ -678,6 +678,9 @@
 
 <MAPDELETE FIELD="/elementList;1;1">
 </MAPDELETE>
+
+<MAPDELETE FIELD="/value;1;0">
+</MAPDELETE>
 </MAP>
 </INVOKE>
 </FLOW>
