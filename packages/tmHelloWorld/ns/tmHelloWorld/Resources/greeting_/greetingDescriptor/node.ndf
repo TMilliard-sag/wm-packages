@@ -5,13 +5,14 @@
   <value name="node_subtype">restv2Descriptor</value>
   <value name="node_nsName">tmHelloWorld.Resources.greeting_:greetingDescriptor</value>
   <value name="node_pkg">tmHelloWorld</value>
+  <value name="node_comment"></value>
   <value name="is_public">false</value>
   <null name="sourceUri"/>
   <null name="swaggerUrl"/>
   <Boolean name="modifiable">true</Boolean>
   <record name="generalInfo" javaclass="com.wm.util.Values">
     <value name="specVersion">2.0</value>
-    <value name="hostName">SAG-9G3H7Y2:5556</value>
+    <value name="hostName">localhost:5555</value>
     <value name="basePath">/rad/tmHelloWorld.Resources.greeting_:greetingDescriptor</value>
     <array name="schemes" type="value" depth="1">
       <value>http</value>
