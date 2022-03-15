@@ -673,9 +673,6 @@
 <MAPCOPY FROM="/value;1;0" TO="/sentence;1;0">
 </MAPCOPY>
 
-<MAPDELETE FIELD="/value;1;0">
-</MAPDELETE>
-
 <MAPDELETE FIELD="/separator;1;0">
 </MAPDELETE>
 
