@@ -26,8 +26,8 @@
   </record>
   <record name="appInfo" javaclass="com.wm.util.Values">
     <value name="appVersion">1.0</value>
-    <value name="description">Service greeting for saying hello to the provided name</value>
-    <value name="title">greetings</value>
+    <value name="description">Service greeting for saying hello to the provided name. To be deployed in a microservice runtime.</value>
+    <value name="title">msr-helloworld</value>
     <null name="termsOfService"/>
     <record name="contact" javaclass="com.wm.util.Values">
       <null name="contactName"/>
