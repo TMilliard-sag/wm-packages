@@ -101,9 +101,9 @@
 
 <Values version="2.0">
   <array name="xml" type="value" depth="1">
-    <value>Hello </value>
+    <value>Hello</value>
     <value>%name%</value>
-    <value> end of input</value>
+    <value>end of input.</value>
   </array>
   <record name="type" javaclass="com.wm.util.Values">
     <value name="node_type">field</value>
