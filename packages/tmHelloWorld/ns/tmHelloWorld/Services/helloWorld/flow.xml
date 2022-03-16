@@ -104,7 +104,7 @@
     <value>Hello</value>
     <value>%name%</value>
     <value>Good morning</value>
-    <value>switching to 1 big node</value>
+    <value>switching to 1 big node and update</value>
   </array>
   <record name="type" javaclass="com.wm.util.Values">
     <value name="node_type">field</value>
