@@ -104,7 +104,7 @@
     <value>Hello</value>
     <value>%name%</value>
     <value>Good morning</value>
-    <value>end of input.</value>
+    <value>END</value>
   </array>
   <record name="type" javaclass="com.wm.util.Values">
     <value name="node_type">field</value>
