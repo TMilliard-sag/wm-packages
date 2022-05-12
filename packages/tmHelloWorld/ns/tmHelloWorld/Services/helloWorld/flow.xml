@@ -104,7 +104,7 @@
     <value>Hello</value>
     <value>%name%</value>
     <value>Good morning</value>
-    <value>test check demo updated store</value>
+    <value>test check demo updated creds</value>
   </array>
   <record name="type" javaclass="com.wm.util.Values">
     <value name="node_type">field</value>
