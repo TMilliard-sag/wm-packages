@@ -103,8 +103,8 @@
   <array name="xml" type="value" depth="1">
     <value>Hello</value>
     <value>%name%</value>
-    <value>Good morning</value>
-    <value>prépa démo</value>
+    <value>Good afternoon</value>
+    <value>live demo</value>
   </array>
   <record name="type" javaclass="com.wm.util.Values">
     <value name="node_type">field</value>
