@@ -1,2 +1,6 @@
 Time,Total Memory,Free Memory,Current JVM Threads,Max JVM Threads,Total Sessions,Max Sessions,Session Average Time,Running Service Threads,Max Running Service Threads,Request Average Time,New Requests,Completed Requests
 2022-11-04 00:00:18 CET,313524224,36705080,227,246,1,7,0,0,1,0,0,0
+2022-11-04 00:01:18 CET,313524224,30664864,227,246,1,7,0,0,1,0,0,0
+2022-11-04 00:02:18 CET,313524224,38957440,227,246,1,7,0,0,1,0,0,0
+2022-11-04 00:03:18 CET,313524224,32888912,227,246,1,7,0,0,1,0,0,0
+2022-11-04 00:04:18 CET,313524224,36359816,227,246,1,7,0,0,1,0,0,0
