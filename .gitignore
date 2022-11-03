@@ -15,6 +15,7 @@ monitorRepo
 /db
 /XAStore
 \XAStore
+XAStore*
 /replicate
 /temp
 /pipeline
