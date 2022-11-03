@@ -1,0 +1,16 @@
+.tc.custom.log4j2.properties
+bin
+cacheStore
+config
+db
+lib
+logs
+Wm*
+Default
+monitorRepo
+replicate
+support
+updates
+userFtpRoot
+web
+XAStore

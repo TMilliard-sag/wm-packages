@@ -107,4 +107,24 @@
   <value name="rs.monitor">MonitorAdministrators</value>
   <value name="wm.jsonapi.logging:init">WmPrivate</value>
   <value name="wm.jsonapi.logging">WmPrivate</value>
+  <value name="wm.art.admin">WmPrivate</value>
+  <value name="wm.art.error">WmPrivate</value>
+  <value name="wm.art.metadata">WmPrivate</value>
+  <value name="wm.art.notification">WmPrivate</value>
+  <value name="wm.art.ns">WmPrivate</value>
+  <value name="wm.art.adapter">WmPrivate</value>
+  <value name="omi.wm.art">WmPrivate</value>
+  <value name="wm.art.odata">WmPrivate</value>
+  <value name="wm.art.ic">WmPrivate</value>
+  <value name="wm.server.ff:SEFParse">WmPrivate</value>
+  <value name="pub.flatFile.generate:getFFSchemaAsDocument">WmPrivate</value>
+  <value name="pub.flatFile.generate:saveDocumentAsFFSchema">WmPrivate</value>
+  <value name="wm.server.ff:generateDocumentType">WmPrivate</value>
+  <value name="wm.server.ff:getFFDictionaryDefinition">WmPrivate</value>
+  <value name="wm.server.ff:getFFSchemaDefinition">WmPrivate</value>
+  <value name="wm.server.ff:saveFFDictionaryDefinition">WmPrivate</value>
+  <value name="wm.server.ff:saveFFSchemaDefinition">WmPrivate</value>
+  <value name="tmHelloWorld">Anonymous</value>
+  <value name="tmHelloWorld.Services:helloWorld">Default</value>
+  <value name="tmHelloWorld.Services">Anonymous</value>
 </Values>

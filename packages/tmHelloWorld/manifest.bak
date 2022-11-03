@@ -13,9 +13,28 @@
   <value name="reloadWithDependentPackage">yes</value>
   <value name="name">tmHelloWorld</value>
   <value name="build"></value>
-  <null name="description"/>
+  <value name="description"></value>
   <value name="time">2022-03-09 14:24:43 CET</value>
   <value name="jvm_version">11.0.13</value>
   <value name="publisher">SAG-9G3H7Y2</value>
   <value name="patch_nums"></value>
+  <null name="created_date"/>
+  <array name="extendedProperties" type="record" depth="1">
+    <record javaclass="com.wm.util.Values">
+      <value name="key">displayName</value>
+      <value name="value"></value>
+    </record>
+    <record javaclass="com.wm.util.Values">
+      <value name="key">trusted</value>
+      <value name="value">no</value>
+    </record>
+    <record javaclass="com.wm.util.Values">
+      <value name="key">status</value>
+      <value name="value">Development</value>
+    </record>
+    <record javaclass="com.wm.util.Values">
+      <value name="key">tags</value>
+      <value name="value"></value>
+    </record>
+  </array>
 </Values>

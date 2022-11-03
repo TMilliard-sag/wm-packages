@@ -51,6 +51,7 @@
   <value name="wm.server.packages:packageReload">Developers</value>
   <value name="wm.server:connect">Anonymous</value>
   <value name="omi">Administrators</value>
+  <value name="tmHelloWorld.Services">Anonymous</value>
   <value name="wm.server.ff:generateDocumentType">WmPrivate</value>
   <value name="wm.ism">Administrators</value>
   <value name="pub.flatFile.generate:saveDocumentAsFFSchema">WmPrivate</value>

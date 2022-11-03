@@ -1,5 +1,5 @@
 #webMethods Integration Server Configuration
-#Thu Nov 03 18:17:57 CET 2022
+#Thu Nov 03 19:54:36 CET 2022
 watt.adminapi.log.clientErrors=false
 watt.adminapi.returnExceptions=false
 watt.art.page.size=10
