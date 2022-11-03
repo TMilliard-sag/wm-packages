@@ -1,0 +1,39 @@
+----------------------------------------------------------------
+Thu Nov 03 18:15:50 CET 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0184-3e7d-e5e2-ffff82653d9b 
+on database directory C:\SAGAPIGW10.15\IntegrationServer\instances\default\db\embedded with class loader java.net.URLClassLoader@4359fb72 
+Loaded from file:C:/SAGAPIGW10.15/common/lib/ext/derby.jar
+java.vendor=Azul Systems, Inc.
+java.runtime.version=11.0.16.1+1-LTS
+user.dir=C:\SAGAPIGW10.15\IntegrationServer\instances\default
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\SAGAPIGW10.15\IntegrationServer\instances\default\db
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Nov 03 18:15:51 CET 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance 40a68025-0184-3e7d-e5e2-ffff82653d9b 
+on database directory C:\SAGAPIGW10.15\IntegrationServer\instances\default\db\AUDITINGSC with class loader java.net.URLClassLoader@4359fb72 
+Loaded from file:C:/SAGAPIGW10.15/common/lib/ext/derby.jar
+java.vendor=Azul Systems, Inc.
+java.runtime.version=11.0.16.1+1-LTS
+user.dir=C:\SAGAPIGW10.15\IntegrationServer\instances\default
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\SAGAPIGW10.15\IntegrationServer\instances\default\db
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Nov 03 18:15:54 CET 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance 6965c036-0184-3e7d-e5e2-ffff82653d9b 
+on database directory C:\SAGAPIGW10.15\IntegrationServer\instances\default\db\LWQ_DB with class loader java.net.URLClassLoader@4359fb72 
+Loaded from file:C:/SAGAPIGW10.15/common/lib/ext/derby.jar
+java.vendor=Azul Systems, Inc.
+java.runtime.version=11.0.16.1+1-LTS
+user.dir=C:\SAGAPIGW10.15\IntegrationServer\instances\default
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\SAGAPIGW10.15\IntegrationServer\instances\default\db
+Database Class Loader started - derby.database.classpath=''

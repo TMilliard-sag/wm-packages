@@ -1,0 +1,4 @@
+28.10.22 18:55:08.102 [WARN] | Configuration problem for cache LockedAccounts: MaxEntriesLocalHeap equal or greater than MaxEntriesLocalDisk. This will result in useless disk storage. 
+03.11.22 17:42:08.332 [WARN] | Configuration problem for cache LockedAccounts: MaxEntriesLocalHeap equal or greater than MaxEntriesLocalDisk. This will result in useless disk storage. 
+03.11.22 17:50:33.231 [WARN] | Configuration problem for cache LockedAccounts: MaxEntriesLocalHeap equal or greater than MaxEntriesLocalDisk. This will result in useless disk storage. 
+03.11.22 18:15:52.987 [WARN] | Configuration problem for cache LockedAccounts: MaxEntriesLocalHeap equal or greater than MaxEntriesLocalDisk. This will result in useless disk storage. 
