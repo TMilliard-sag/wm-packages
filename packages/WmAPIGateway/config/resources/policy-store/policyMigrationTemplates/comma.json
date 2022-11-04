@@ -1,4 +1,0 @@
-<#if isComma>
-  ,
-</#if>
-<#assign isComma = true/>

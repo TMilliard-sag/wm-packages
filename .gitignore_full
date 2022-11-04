@@ -22,7 +22,7 @@ XAStore/
 /.tc.dev.log4j.properties
 *.log
 Default
-Wm*
+Wm*/
 *.bak
 sequence-num.dat
 packages/JcTestRunner/pub/results/

@@ -1,5 +1,0 @@
-#Integration Server Security Auditing settings
-#Thu Nov 03 19:54:31 CET 2022
-AUDIT_STARTUP=false
-CATEGORIES=
-RESULT=Success or Failure

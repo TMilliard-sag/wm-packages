@@ -1,2 +1,0 @@
-<#assign transformApiResponse='com.softwareag.apigateway.core.migration.transformation.api.Api105to104Transformation'?new()/>
-${transformApiResponse(doc)}

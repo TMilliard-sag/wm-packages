@@ -1,2 +1,0 @@
-<#assign cepHandler='com.softwareag.apigateway.core.migration.transformation.CEP105to107RespTransformation'?new()/>
-${cepHandler(doc, transformationMode)}

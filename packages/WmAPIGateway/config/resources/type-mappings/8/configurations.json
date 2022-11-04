@@ -1,9 +1,0 @@
-{
-    "properties": {
-	  	"configId": {
-			"type": "text",
-			"analyzer": "not_analyzed_ignorecase",
-			"fielddata" : true
-		}
-    }
-}

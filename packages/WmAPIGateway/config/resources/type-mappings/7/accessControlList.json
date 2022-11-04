@@ -1,7 +1,0 @@
-{
-    "properties": {
-	  "assetId": {
-		"type" : "keyword"
-	  }
-    }
-}
