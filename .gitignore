@@ -13,9 +13,8 @@ monitorRepo
 /WmRepository4
 /DocumentStore
 /db
-/XAStore
-\XAStore
-XAStore*
+XAStore/
+
 /replicate
 /temp
 /pipeline
