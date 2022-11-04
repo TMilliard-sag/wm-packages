@@ -100,7 +100,7 @@
   <array name="xml" type="value" depth="1">
     <value>Ligne 1</value>
     <value>%name%</value>
-    <value>Ligne 2 3 4</value>
+    <value>Ligne 2 3 4 5</value>
   </array>
   <record name="type" javaclass="com.wm.util.Values">
     <value name="node_type">field</value>
