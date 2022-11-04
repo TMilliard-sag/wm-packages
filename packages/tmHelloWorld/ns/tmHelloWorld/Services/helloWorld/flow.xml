@@ -102,7 +102,7 @@
     <value>Hello</value>
     <value>%name%</value>
     <value>Good afternoon</value>
-    <value>for test new webhooks</value>
+    <value>for test new webhook</value>
   </array>
   <record name="type" javaclass="com.wm.util.Values">
     <value name="node_type">field</value>
