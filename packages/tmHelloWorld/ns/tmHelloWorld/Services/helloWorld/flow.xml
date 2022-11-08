@@ -102,7 +102,7 @@
     <value>Hello</value>
     <value>%name%</value>
     <value>Good afternoon</value>
-    <value>verif settings 2 3</value>
+    <value>verif settings 2 3 4</value>
   </array>
   <record name="type" javaclass="com.wm.util.Values">
     <value name="node_type">field</value>
